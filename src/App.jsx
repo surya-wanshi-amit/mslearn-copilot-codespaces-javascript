@@ -27,7 +27,7 @@ const siteProps = {
   name: "Amit Suryawanshi",
   title: "Full Stack Developer",
   email: "patilamit8605@gmail.com",
-  gitHub: "https://github.com/surya-wanshi-amit",
+  gitHub: "surya-wanshi-amit",
   instagram: "microsoft",
   linkedIn: "satyanadella",
   medium: "",

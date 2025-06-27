@@ -23,20 +23,42 @@ const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
  */
-const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+const description = `Software engineer with 4.8 years of experience building scalable backend systems using Node.js, Express,
+and PostgreSQL/MySql. Proficient in designing RESTful APIs, improving database efficiency, and
+implementing secure, maintainable code. Collaborates effectively with frontend teams using Angular to
+ensure smooth API integration and end-to-end feature delivery.`;
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "JavaScript",
+  "TypeScript",
+  "Core Java",
+  "HTML",
+  "CSS",
+  "Node.js",
+  "Express.js",
+  "Angular 18",
+  "Sequelize",
+  "PostgreSQL",
+  "MySql",
+  "Azure Blob",
+  "AWS S3",
+  "Docker",
+  "Git",
+  "Jest",
+  "BullMQ",
+  "Redis (Caching)",
+  "Postman",
+  "REST APIs",
+  "Rate Limiting",
+  "Authentication",
+  "JWT",
+  "OAuth 2.0",
+  "Role-based Access Control (RBAC)",
+  "Object-Oriented Programming (OOP)",
 ];
 
 /**
@@ -45,7 +67,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I'm passionate about solving complex problems with clean, scalable backend solutions, bringing a creative mindset to drive innovation. With expertise in backend development and Angular, I continually seek better ways to make technology more efficient, intuitive, and accessible for all.";
 
 const About = () => {
   return (
